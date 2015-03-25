@@ -1,0 +1,8 @@
+=encoding utf8
+
+=head1 The One with The Fountainhead Logo
+
+See L<http://www.shlomifish.org/humour/TOWTF/> . Logo taken from the opening
+of Friends - L<http://www.youtube.com/watch?v=YKYL_zcSfzc> .
+
+=cut
